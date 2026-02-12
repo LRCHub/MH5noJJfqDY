@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "夜行",
+  "base_artist": "ヨルシカ",
+  "createdAt": "2026-02-12T13:33:44.394752Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夜行",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/01_夜行_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夜行",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/02_夜行_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夜行",
+      "artist": "劉惜君",
+      "has_synced": false,
+      "path": "select/03_夜行_劉惜君.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夜行",
+      "artist": "刘惜君",
+      "has_synced": false,
+      "path": "select/04_夜行_刘惜君.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "夜行",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/05_夜行_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "夜行",
+      "artist": "indigo la End",
+      "has_synced": true,
+      "path": "select/06_夜行_indigo_la_End.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "夜行 - Night Journey",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/07_夜行_-_Night_Journey_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "夜行",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/08_夜行_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "夜行",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/09_夜行_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "夜行 - Night Journey",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/10_夜行_-_Night_Journey_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "▷▷ (夜行)",
+      "artist": "mol-74",
+      "has_synced": false,
+      "path": "select/11_▷▷_(夜行)_mol-74.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "夜行",
+      "artist": "娃娃",
+      "has_synced": true,
+      "path": "select/12_夜行_娃娃.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "夜行",
+      "artist": "鄒序",
+      "has_synced": false,
+      "path": "select/13_夜行_鄒序.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜行",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/pl_01_夜行_ヨルシカ.txt"
+    }
+  ]
+}
